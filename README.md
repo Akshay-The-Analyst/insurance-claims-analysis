@@ -1,2 +1,3 @@
-# insurance-claims-analysis
-A synthetic insurance claims analytics project using SQL and Power BI.
+# Insurance Claims Analysis ## About This Project This project analyzes synthetic US insurance claims data to identify trends in claim volumes, claim amounts, and settlement status. ## Objectives - Analyze total claims received and settled. - Compare claim amounts across states and claim types. - Track pending and settled claims. - Explore monthly claim trends. - Build insights using SQL and Power BI। ## Tools & Technologies - Microsoft Excel, SQL, Microsoft Power BI। ## Dataset This project will use synthetic data created for educational and portfolio purposes. No real customer, policyholder, beneficiary, or company data will be used। ## Key Performance Indicators - Total Claims, - Settled Claims, - Pending Claims, - Total Claim Amount, - Settlement Rate, - Average Processing Time
+ Project Status In Progress।
+ ## Author Akshay Kumar Gupta।
